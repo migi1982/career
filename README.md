@@ -3,7 +3,9 @@
 - 氏名
 	- 右寺 隆信 (みぎてら たかのぶ）
 - 肩書
-	- グロースデザイナー/フロントエンドエンジニア
+	- グロースデザイナー
+	- フロントエンドエンジニア
+	- アナログゲームデザイナー
 - 生年
 	- 1982年
 - 最終学歴
@@ -21,50 +23,58 @@
 
 # 独立後に請け負った主な業務
 
-- グロース関連
-	- 既存サービス改善
-		- KPI再定義の提案
-		- 数値解析・改善提案
-		- 機能改善提案
-	- 新規サービス立ち上げ
-		- リーンキャンバス作成協力
-		- 広告運用方法の提案
-		- 現状のUI改善の提案
-		- 広告クリエイティブ・ストア画像の提案
-		- GoogleAnalytics設定の設計
-	- 教育
-		- 社員へのグロース関連知識の教育
-- フロントエンド開発関連
-	- Vue.jsを用いた社内向け業務運用サービス開発
-	- Vue.jsを用いたMVP検証のためのプロトタイプモック開発
-	- Vue.js/Vuex/Nuxt.jsを用いたソーシャルサービス開発
-	- Vue.js/Vuex/Nuxt.jsを用いたウェブアプリケーション管理画面開発
-	- SPAサービスにおけるAPI仕様設計
-	- コンテンツレコメンデーションシステムのロジック開発
-	- 上記ロジックの検証のためのTwitterAPIを用いたモックサービス開発
-- データ解析・機械学習関連
-	- ナイーブベイズを用いた自然言語カテゴリ判別器の開発
-	- ユーザの基礎情報・行動情報を基にしたベイズ確率判定器
-	- ユーザがアクセスページを基にしたクラスタリング分析
-	- 500万件超の売上データを対象とした分析
-	- fbProphetを用いた定量データの周期性・トレンド解析と未来数値予測
-	- BigQueryでのデータ解析
-	- GoogleDataStudioでのダッシュボード作成
+## グロース関連
+- 既存サービス改善
+	- KPI再定義の提案
+	- 数値解析・改善提案
+	- 機能改善提案
+- 新規サービス立ち上げ
+	- リーンキャンバス作成協力
+	- 広告運用方法の提案
+	- 現状のUI改善の提案
+	- 広告クリエイティブ・ストア画像の提案
+	- GoogleAnalytics設定の設計
+- 教育
+	- 社員へのグロース関連知識の教育
 
-# 著書・主なブログ記事執筆
+## フロントエンド開発関連
+- Vue.jsを用いた社内向け業務運用サービス開発
+- Vue.jsを用いたMVP検証のためのプロトタイプモック開発
+- Vue.js/Vuex/Nuxt.jsを用いたソーシャルサービス開発
+- Vue.js/Vuex/Nuxt.jsを用いたウェブアプリケーション管理画面開発
+- SPAサービスにおけるAPI仕様設計
+- コンテンツレコメンデーションシステムのロジック開発
+- 上記ロジックの検証のためのTwitterAPIを用いたモックサービス開発
 
+## データ解析・機械学習関連
+- ナイーブベイズを用いた自然言語カテゴリ判別器の開発
+- ユーザの基礎情報・行動情報を基にしたベイズ確率判定器
+- ユーザがアクセスページを基にしたクラスタリング分析
+- 500万件超の売上データを対象とした分析
+- fbProphetを用いた定量データの周期性・トレンド解析と未来数値予測
+- BigQueryでのデータ解析
+- GoogleDataStudioでのダッシュボード作成
+
+# アナログゲーム開発
+- [Assassin's Crisis アサシンクライシス](https://ac.migi.site/)
+- [Dead beside Decoy デッド・ビサイド・デコイ](https://dbd.migi.site/)
+
+# 著書・出演・主なブログ執筆記事
+
+## 著書
 - マイナビ出版 様
-	- 『HTML5プロフェッショナル認定試験 レベル2 対策テキスト&問題集』 
-		- https://www.amazon.co.jp/dp/4839963037/
-- エンジニアHub 様 https://employment.en-japan.com/engineerhub/
-	- エンジニアが知っておくべきデザインの基本。「デザインガイドライン」と「コンポーネント」を学ぶ！
-		- https://employment.en-japan.com/engineerhub/entry/2017/07/21/110000
-- 自ブログ http://migi.hatenablog.com/
-	- 「グロースをデザインする」という考え方
-		- http://migi.hatenablog.com/entry/growthdesign
-	- KPIツリーを作る意味とその作り方
-		- http://migi.hatenablog.com/entry/kpi-tree
-	- ユーザの平均継続期間が「1/解約率」で求められることの数学的証明
-		- http://migi.hatenablog.com/entry/churn-formula
-	- ナイーブベイズを利用した自動カテゴリ判定器の開発
-		- http://migi.hatenablog.com/entry/naivebayes
+	- [『HTML5プロフェッショナル認定試験 レベル2 対策テキスト&問題集』](https://www.amazon.co.jp/dp/4839963037/)
+
+## 出演
+- Schoo 様
+	- [JavaScript入門【2019年版】](https://schoo.jp/class/6508)
+	- [JavaScript入門](https://schoo.jp/class/2406)
+
+## 主なブログ執筆記事
+- エンジニアHub 様
+	- [エンジニアが知っておくべきデザインの基本。「デザインガイドライン」と「コンポーネント」を学ぶ！](https://employment.en-japan.com/engineerhub/entry/2017/07/21/110000)
+- 自ブログ
+	- [「グロースをデザインする」という考え方](http://migi.hatenablog.com/entry/growthdesign)
+	- [KPIツリーを作る意味とその作り方](http://migi.hatenablog.com/entry/kpi-tree)
+	- [ユーザの平均継続期間が「1/解約率」で求められることの数学的証明](http://migi.hatenablog.com/entry/churn-formula)
+	- [ナイーブベイズを利用した自動カテゴリ判定器の開発](http://migi.hatenablog.com/entry/naivebayes)
