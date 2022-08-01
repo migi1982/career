@@ -54,6 +54,7 @@
 - fbProphetを用いた定量データの周期性・トレンド解析と未来数値予測
 - BigQueryでのデータ解析
 - GoogleDataStudioでのダッシュボード作成
+- ECモールにおける出店側の行動分析
 
 # アナログゲーム開発
 - [Assassin's Crisis アサシンクライシス](https://ac.migi.site/)
@@ -69,10 +70,16 @@
 - Schoo 様
 	- [JavaScript入門【2019年版】](https://schoo.jp/class/6508)
 	- [JavaScript入門](https://schoo.jp/class/2406)
+- DIST ゲームから学ぶUI/UX
+	- [機能一つでユーザーのお行儀が良くなったお話](https://speakerdeck.com/migi1982/ji-neng-1tudeyuzafalseoxing-yi-galiang-kunatutaohua-dist22)
+	- [水はひび割れを見つける〜剣聖シドに学ぶサービスデザイン〜](https://speakerdeck.com/migi1982/shui-hahibige-rewojian-tukeru-jian-sheng-sidonixue-busabisudezain)
+	- [『ライザのアトリエ』とジェンダー表現](https://speakerdeck.com/migi1982/raizafalseatorie-toziendabiao-xian)
 
 ## 主なブログ執筆記事
 - エンジニアHub 様
 	- [エンジニアが知っておくべきデザインの基本。「デザインガイドライン」と「コンポーネント」を学ぶ！](https://employment.en-japan.com/engineerhub/entry/2017/07/21/110000)
+- Goodpatch 様（執筆協力）
+  - [デザイン×ビジネス視点がグロースのカギ。マーケティングが学べるおすすめ本](https://goodpatch.com/blog/recommended-marketing-books)
 - 自ブログ
 	- [「グロースをデザインする」という考え方](http://migi.hatenablog.com/entry/growthdesign)
 	- [KPIツリーを作る意味とその作り方](http://migi.hatenablog.com/entry/kpi-tree)
