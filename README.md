@@ -64,16 +64,22 @@
 
 ## 著書
 - マイナビ出版 様
-	- [『HTML5プロフェッショナル認定試験 レベル2 対策テキスト&問題集』](https://www.amazon.co.jp/dp/4839963037/)
+	- [HTML5プロフェッショナル認定試験 レベル2 対策テキスト＆問題集 Ver.2.5対応版](https://www.amazon.co.jp/dp/4839980446/)
+	- [HTML5プロフェッショナル認定試験 レベル2 対策テキスト&問題集](https://www.amazon.co.jp/dp/4839963037/)
 
 ## 出演
 - Schoo 様
+	- JavaScript入門【2022年版】
+		- [初級](https://schoo.jp/course/7278)
+		- [中級](https://schoo.jp/course/7318)
+		- 上級（近日公開予定）
 	- [JavaScript入門【2019年版】](https://schoo.jp/class/6508)
 	- [JavaScript入門](https://schoo.jp/class/2406)
 - DIST ゲームから学ぶUI/UX
 	- [機能一つでユーザーのお行儀が良くなったお話](https://speakerdeck.com/migi1982/ji-neng-1tudeyuzafalseoxing-yi-galiang-kunatutaohua-dist22)
 	- [水はひび割れを見つける〜剣聖シドに学ぶサービスデザイン〜](https://speakerdeck.com/migi1982/shui-hahibige-rewojian-tukeru-jian-sheng-sidonixue-busabisudezain)
 	- [『ライザのアトリエ』とジェンダー表現](https://speakerdeck.com/migi1982/raizafalseatorie-toziendabiao-xian)
+	- [ヘッドショットの気持ち良さを考える 〜フィードバックとUX〜](https://speakerdeck.com/migi1982/hetudosiyotutonoqi-chi-tiliang-sawokao-eru-huidobatukutoux)
 
 ## 主なブログ執筆記事
 - エンジニアHub 様
