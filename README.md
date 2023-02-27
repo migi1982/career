@@ -3,7 +3,7 @@
 - 氏名
 	- 右寺 隆信 (みぎてら たかのぶ）
 - 肩書
-	- グロースデザイナー
+	- データアナリスト
 	- フロントエンドエンジニア
 	- アナログゲームデザイナー
 - 生年
@@ -69,12 +69,13 @@
 
 ## 出演
 - Schoo 様
-	- JavaScript入門【2022年版】
-		- [初級](https://schoo.jp/course/7278)
-		- [中級](https://schoo.jp/course/7318)
-		- 上級（近日公開予定）
-	- [JavaScript入門【2019年版】](https://schoo.jp/class/6508)
-	- [JavaScript入門](https://schoo.jp/class/2406)
+  - React入門（公開準備中）
+  - JavaScript入門【2022年版】
+    - [初級](https://schoo.jp/course/7278)
+    - [中級](https://schoo.jp/course/7318)
+    - [上級](https://schoo.jp/course/7354)
+  - [JavaScript入門【2019年版】](https://schoo.jp/class/6508)
+  - [JavaScript入門](https://schoo.jp/class/2406)
 - DIST ゲームから学ぶUI/UX
 	- [機能一つでユーザーのお行儀が良くなったお話](https://speakerdeck.com/migi1982/ji-neng-1tudeyuzafalseoxing-yi-galiang-kunatutaohua-dist22)
 	- [水はひび割れを見つける〜剣聖シドに学ぶサービスデザイン〜](https://speakerdeck.com/migi1982/shui-hahibige-rewojian-tukeru-jian-sheng-sidonixue-busabisudezain)
